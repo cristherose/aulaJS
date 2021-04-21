@@ -1,0 +1,10 @@
+let nome=prompt('Qual é seu nome?') 
+let sobrenome= prompt('Qual é seu sobrenome?') 
+let idade= prompt('escreva su idade por favor') 
+let nacionalidade=prompt( 'onde você nasceu?') 
+let visita= prompt('que cidade vai conhecer do Brasil?')
+
+console.log('Bem-vindo ao Braisl:    ' + nome + (' ')+ sobrenome )
+console.log('digite sua edade:    ' + idade )
+console.log('que legal! ' + nacionalidade)
+console.log('disfrute de sua estadia!  ' + visita)
